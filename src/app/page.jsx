@@ -1,3 +1,3 @@
 export default function Home() {
-  return <p>name</p>;
+  return <p>divyam gupta</p>;
 }

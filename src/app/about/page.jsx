@@ -1,3 +1,3 @@
 export default function Page(){
-  return <p>about</p>
+  return <p>I am learning how to build web applications.</p>
 }
